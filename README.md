@@ -11,3 +11,14 @@ Project focuses on generating sms_summaries
 - from transformers import AutoTokenizer, AutoModelForSeq2SeqLM
 - from keybert import KeyBERT
 - import json
+
+# Hugging Face Documentation
+
+- Model Used = facebook/bart-large-cnn
+- Link - https://huggingface.co/facebook/bart-large-cnn
+
+# Issues to tackle
+
+- Integrating transformer models with mobile application.
+- may be impossible
+- Then look for the extractive summarization using summy library
