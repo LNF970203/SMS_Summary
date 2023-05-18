@@ -1,7 +1,7 @@
 # SMS_Summary
 Project focuses on generating sms_summaries
 
-# Libbraries
+# Libraries
 - import spacy
 - import en_core_web_sm
 - import pandas as pd
